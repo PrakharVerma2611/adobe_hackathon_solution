@@ -1,0 +1,470 @@
+{
+  "title": "Adobe Hackathon - Connecting the Dots Challenge",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Adobe Hackathon - Connecting the Dots Challenge",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Project Overview",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Round 1A: PDF Structure Extraction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Approach",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Text Extraction with Properties",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Statistical Analysis",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Heading Detection",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Level Classification",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title Extraction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Key Features",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Robust Heading Detection",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Multilingual Support",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Pattern Recognition",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Deduplication",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Error Handling",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Libraries Used",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "PyMuPDF (fitz)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "NumPy",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Collections",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Re",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Section Extraction",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Relevance Scoring",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Subsection Analysis",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Content Refinement",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Scoring Algorithm",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Persona Score",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Job Score",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Length Score",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Heading Bonus",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Generic Design",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Smart Ranking",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Scalable Architecture",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Scikit-learn",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Project Structure",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Build and Run Instructions",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Round 1A",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Round 1B",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Input Requirements",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Dockerfile",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Output Format",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Round 1A Output",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Round 1B Output",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Performance Optimizations",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Round 1A Optimizations",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Efficient Text Extraction",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Memory Management",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Fast Font Analysis",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Pattern Caching",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Round 1B Optimizations",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Selective Processing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chunked Analysis",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Relevance Filtering",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Optimized Scoring",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Technical Constraints Compliance",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Access Errors",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Memory Constraints",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Malformed Content",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Missing Dependencies",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Testing Strategy",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Unit Testing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Integration Testing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Edge Case Testing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Scalability Considerations",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Horizontal Scaling",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Vertical Scaling",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Future Enhancements",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Round 1A Improvements",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Advanced OCR",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Layout Analysis",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Multi-column Support",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Language Detection",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Round 1B Improvements",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Semantic Similarity",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Entity Recognition",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Citation Analysis",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Multi-modal Content",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Dependencies and Licenses",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Core Dependencies",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "PyMuPDF",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Development Dependencies",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Python 3.9",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Docker",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Troubleshooting",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Common Issues",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Docker Build Fails",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "PDF Processing Errors",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Memory Issues",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Performance Issues",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Debug Mode",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Contact and Support",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "PYTHONPATH",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "DEBUG",
+      "page": 8
+    }
+  ]
+}

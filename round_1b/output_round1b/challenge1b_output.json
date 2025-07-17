@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Comprehensive README.pdf",
+      "Round 1B Approach Explanation.pdf"
+    ],
+    "persona": "Machine Learning Engineer",
+    "job_to_be_done": "Analyze technical papers for AI advancements",
+    "processing_timestamp": "2025-07-17T09:41:29.916922"
+  },
+  "extracted_sections": [
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 7,
+      "section_title": "Core Dependencies",
+      "importance_rank": 1
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 1,
+      "section_title": "the persona and job requirements:",
+      "importance_rank": 2
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 3,
+      "section_title": "prioritize information makes it particularly effective for professionals who need to quickly extract",
+      "importance_rank": 3
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 8,
+      "section_title": "Contact and Support",
+      "importance_rank": 4
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 2,
+      "section_title": "Adaptive Keyword Extraction",
+      "importance_rank": 5
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 2,
+      "section_title": "Multi-Domain Generalization",
+      "importance_rank": 6
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 2,
+      "section_title": "The solution implements an intelligent document analyzer that:",
+      "importance_rank": 7
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 5,
+      "section_title": "Technical Constraints Compliance",
+      "importance_rank": 8
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 2,
+      "section_title": "Technical Implementation",
+      "importance_rank": 9
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 5,
+      "section_title": "Round 1A",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 7,
+      "refined_text": "Scikit-learn : BSD License - Machine learning utilities",
+      "relevance_score": 0.282842712474619
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 3,
+      "refined_text": "Technical constraints while delivering meaningful results across the varied test scenarios.",
+      "relevance_score": 0.18090680674665816
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 1,
+      "refined_text": "Job Alignment (40 weight) : Analyzes job-to-be-done requirements and prioritizes sections containing",
+      "relevance_score": 0.17320508075688773
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 8,
+      "refined_text": "For technical support or questions about the implementation, please refer to the project documentation",
+      "relevance_score": 0.16035674514745463
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 1,
+      "refined_text": "Persona Matching (30 weight) : Extracts keywords from persona description and measures their",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 1,
+      "refined_text": "Frequency in section content. This ensures content alignment with the users expertise and background.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 3,
+      "refined_text": "Prioritize information makes it particularly effective for professionals who need to quickly extract",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Round 1B Approach Explanation.pdf",
+      "page_number": 3,
+      "refined_text": "Actionable insights from large document collections.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 8,
+      "refined_text": "This solution is designed to meet all requirements of the Adobe Hackathon Connecting the Dots challenge",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Comprehensive README.pdf",
+      "page_number": 8,
+      "refined_text": "While maintaining high performance, accuracy, and scalability.",
+      "relevance_score": 0.0
+    }
+  ]
+}

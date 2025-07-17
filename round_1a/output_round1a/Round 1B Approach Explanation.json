@@ -1,0 +1,165 @@
+{
+  "title": "Round 1B: Persona-Driven Document Intelligence - Approach",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence - Approach",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Explanation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Methodology Overview",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Core Architecture",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. Document Preprocessing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Section Detection and Extraction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Font Size Analysis",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Formatting Cues",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Pattern Recognition",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Contextual Analysis",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3. Relevance Scoring Engine",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Persona Matching (30% weight)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Job Alignment (40% weight)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Content Quality (20% weight)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Structural Importance (10% weight)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4. Subsection Analysis",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Key Innovations",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Adaptive Keyword Extraction",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Multi-Domain Generalization",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Hierarchical Content Understanding",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Technical Implementation",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Performance Optimization",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Efficient Text Processing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Vectorized Operations",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Memory Management",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Selective Analysis",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Scalability Design",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Robustness Features",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Error Handling",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Content Validation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Format Flexibility",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Expected Outcomes",
+      "page": 3
+    }
+  ]
+}
